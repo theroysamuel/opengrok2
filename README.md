@@ -1,4 +1,3 @@
-
 Copyright (c) 2006, 2018 Oracle and/or its affiliates. All rights reserved.
 
 
@@ -9,6 +8,7 @@ Copyright (c) 2006, 2018 Oracle and/or its affiliates. All rights reserved.
 [![SonarQube status](https://sonarcloud.io/api/project_badges/measure?project=org.opengrok%3Aopengrok-top&metric=alert_status)](https://sonarcloud.io/dashboard?id=org.opengrok%3Aopengrok-top)
 [![AppVeyor status](https://ci.appveyor.com/api/projects/status/8oqlk5yx2c5fnwqw/branch/master?svg=true)](https://ci.appveyor.com/project/vladak/opengrok-b5hnp/branch/master)
 [![License](https://img.shields.io/badge/License-CDDL%201.0-blue.svg)](https://opensource.org/licenses/CDDL-1.0)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ftheroysamuel%2Fopengrok2.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Ftheroysamuel%2Fopengrok2?ref=badge_shield)
 
 1. [Introduction](#1-introduction)
 2. [OpenGrok setup](#2-opengrok-install-and-setup)
@@ -56,3 +56,7 @@ There are also Slack channels on https://opengrok.slack.com/
 ## 6. Demo
 
 Anyway, just demo it yourself - there are Docker images available on https://hub.docker.com/r/opengrok/docker/
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ftheroysamuel%2Fopengrok2.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Ftheroysamuel%2Fopengrok2?ref=badge_large)
